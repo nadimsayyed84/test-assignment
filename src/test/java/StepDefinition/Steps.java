@@ -2,32 +2,27 @@ package StepDefinition;
 
 
 import java.util.List;
+
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.base.Verify;
 import cucumber.api.DataTable;
 import cucumber.api.java.After;
-import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import io.cucumber.testRunner.createElement;
-import net.bytebuddy.utility.visitor.ExceptionTableSensitiveMethodVisitor;
 
 public class Steps extends createElement{
 	public Steps() {
 		super();
 	}
 
-	
 	@Given("^Open the Chrome and launch the application$")
 	public void open_the_Chrome_and_launch_the_application() throws Throwable {
 		driver.navigate().to(url);
@@ -168,4 +163,9 @@ public class Steps extends createElement{
 		wait.until(ExpectedConditions.textToBe(editToDos, ""));
 		getControlObject(editToDos).sendKeys(newToDoItem + Keys.ENTER);
 	}
+	
+//	@After
+//	public void tearDown(){
+//		driver.close();
+//	}	
 }

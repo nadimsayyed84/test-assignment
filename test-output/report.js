@@ -106,7 +106,7 @@ formatter.match({
   "location": "Steps.open_the_Chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 4403900420,
+  "duration": 5424556613,
   "status": "passed"
 });
 formatter.match({
@@ -119,7 +119,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 244951076,
+  "duration": 288281359,
   "status": "passed"
 });
 formatter.match({
@@ -136,7 +136,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 27121429,
+  "duration": 30635224,
   "status": "passed"
 });
 formatter.scenario({
@@ -172,7 +172,7 @@ formatter.match({
   "location": "Steps.open_the_Chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 119213163,
+  "duration": 198237224,
   "status": "passed"
 });
 formatter.match({
@@ -185,7 +185,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 110290219,
+  "duration": 155274614,
   "status": "passed"
 });
 formatter.match({
@@ -202,7 +202,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 31951085,
+  "duration": 44681745,
   "status": "passed"
 });
 formatter.scenario({
@@ -238,7 +238,7 @@ formatter.match({
   "location": "Steps.open_the_Chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 123093444,
+  "duration": 143759271,
   "status": "passed"
 });
 formatter.match({
@@ -251,7 +251,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 113079298,
+  "duration": 237407394,
   "status": "passed"
 });
 formatter.match({
@@ -268,7 +268,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 40145490,
+  "duration": 70501352,
   "status": "passed"
 });
 formatter.scenario({
@@ -304,7 +304,7 @@ formatter.match({
   "location": "Steps.open_the_Chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 125603749,
+  "duration": 126252223,
   "status": "passed"
 });
 formatter.match({
@@ -317,7 +317,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 103836064,
+  "duration": 143118895,
   "status": "passed"
 });
 formatter.match({
@@ -334,7 +334,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 58819757,
+  "duration": 58808914,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -469,7 +469,7 @@ formatter.match({
   "location": "Steps.todo_MVC_app_should_be_launched_already()"
 });
 formatter.result({
-  "duration": 29249967,
+  "duration": 40280696,
   "status": "passed"
 });
 formatter.match({
@@ -482,7 +482,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 70463934,
+  "duration": 98345943,
   "status": "passed"
 });
 formatter.match({
@@ -499,7 +499,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 43352434,
+  "duration": 54977236,
   "status": "passed"
 });
 formatter.match({
@@ -512,7 +512,7 @@ formatter.match({
   "location": "Steps.see_item_left_shows_Item(int)"
 });
 formatter.result({
-  "duration": 24798937,
+  "duration": 21635479,
   "status": "passed"
 });
 formatter.match({
@@ -525,7 +525,7 @@ formatter.match({
   "location": "Steps.see_checkbox_against_the(String)"
 });
 formatter.result({
-  "duration": 18320305,
+  "duration": 17921188,
   "status": "passed"
 });
 formatter.match({
@@ -538,7 +538,7 @@ formatter.match({
   "location": "Steps.see_All_hyperlink_visible_and_selected(String)"
 });
 formatter.result({
-  "duration": 42855932,
+  "duration": 47189444,
   "status": "passed"
 });
 formatter.match({
@@ -551,7 +551,7 @@ formatter.match({
   "location": "Steps.see_Active_hyperlink_visible_and_not_selected(String)"
 });
 formatter.result({
-  "duration": 38728011,
+  "duration": 40867133,
   "status": "passed"
 });
 formatter.match({
@@ -564,7 +564,7 @@ formatter.match({
   "location": "Steps.see_Active_hyperlink_visible_and_not_selected(String)"
 });
 formatter.result({
-  "duration": 36153732,
+  "duration": 43130675,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -744,7 +744,7 @@ formatter.match({
   "location": "Steps.todo_MVC_app_should_be_launched_already()"
 });
 formatter.result({
-  "duration": 23424827,
+  "duration": 18959238,
   "status": "passed"
 });
 formatter.match({
@@ -757,7 +757,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 62903706,
+  "duration": 71311504,
   "status": "passed"
 });
 formatter.match({
@@ -774,7 +774,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 66184051,
+  "duration": 55935055,
   "status": "passed"
 });
 formatter.match({
@@ -787,7 +787,7 @@ formatter.match({
   "location": "Steps.see_item_left_shows_Item(int)"
 });
 formatter.result({
-  "duration": 11112675,
+  "duration": 18121446,
   "status": "passed"
 });
 formatter.match({
@@ -800,7 +800,7 @@ formatter.match({
   "location": "Steps.i_mouse_hover_to(String)"
 });
 formatter.result({
-  "duration": 126040912,
+  "duration": 134763221,
   "status": "passed"
 });
 formatter.match({
@@ -813,7 +813,7 @@ formatter.match({
   "location": "Steps.i_see_X_icon_is_visible_for(String)"
 });
 formatter.result({
-  "duration": 27976376,
+  "duration": 24677756,
   "status": "passed"
 });
 formatter.match({
@@ -826,7 +826,7 @@ formatter.match({
   "location": "Steps.remove_mouse_pointer_from(String)"
 });
 formatter.result({
-  "duration": 26110086,
+  "duration": 30887756,
   "status": "passed"
 });
 formatter.match({
@@ -839,7 +839,7 @@ formatter.match({
   "location": "Steps.i_see_X_icon_disappears_from(String)"
 });
 formatter.result({
-  "duration": 17565258,
+  "duration": 18943578,
   "status": "passed"
 });
 formatter.match({
@@ -852,7 +852,7 @@ formatter.match({
   "location": "Steps.i_click_on_X_for(String)"
 });
 formatter.result({
-  "duration": 155489896,
+  "duration": 170193399,
   "status": "passed"
 });
 formatter.match({
@@ -869,7 +869,7 @@ formatter.match({
   "location": "Steps.deleted_from_the_ToDo_list(String,String)"
 });
 formatter.result({
-  "duration": 36112214,
+  "duration": 51233851,
   "status": "passed"
 });
 formatter.match({
@@ -882,7 +882,7 @@ formatter.match({
   "location": "Steps.see_item_left_shows_Item(int)"
 });
 formatter.result({
-  "duration": 10344340,
+  "duration": 13335990,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1091,7 +1091,7 @@ formatter.match({
   "location": "Steps.todo_MVC_app_should_be_launched_already()"
 });
 formatter.result({
-  "duration": 25565788,
+  "duration": 20976127,
   "status": "passed"
 });
 formatter.match({
@@ -1104,7 +1104,7 @@ formatter.match({
   "location": "Steps.i_select_checkbox(String)"
 });
 formatter.result({
-  "duration": 62270061,
+  "duration": 64696652,
   "status": "passed"
 });
 formatter.match({
@@ -1117,14 +1117,14 @@ formatter.match({
   "location": "Steps.will_be_strikethrough(String)"
 });
 formatter.result({
-  "duration": 27383731,
+  "duration": 31475140,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.clear_completed_link_visible_and_not_selected()"
 });
 formatter.result({
-  "duration": 32210958,
+  "duration": 47305823,
   "status": "passed"
 });
 formatter.match({
@@ -1137,7 +1137,7 @@ formatter.match({
   "location": "Steps.see_item_left_shows_Item(int)"
 });
 formatter.result({
-  "duration": 11642530,
+  "duration": 15614532,
   "status": "passed"
 });
 formatter.match({
@@ -1150,7 +1150,7 @@ formatter.match({
   "location": "Steps.navigate_to_todo_list(String)"
 });
 formatter.result({
-  "duration": 43041002,
+  "duration": 51658532,
   "status": "passed"
 });
 formatter.match({
@@ -1167,7 +1167,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 26267071,
+  "duration": 26785344,
   "status": "passed"
 });
 formatter.match({
@@ -1184,7 +1184,7 @@ formatter.match({
   "location": "Steps.deleted_from_the_ToDo_list(String,String)"
 });
 formatter.result({
-  "duration": 28458474,
+  "duration": 30101322,
   "status": "passed"
 });
 formatter.match({
@@ -1197,7 +1197,7 @@ formatter.match({
   "location": "Steps.navigate_to_todo_list(String)"
 });
 formatter.result({
-  "duration": 36726303,
+  "duration": 42059103,
   "status": "passed"
 });
 formatter.match({
@@ -1214,7 +1214,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 22419166,
+  "duration": 22816029,
   "status": "passed"
 });
 formatter.match({
@@ -1231,14 +1231,14 @@ formatter.match({
   "location": "Steps.deleted_from_the_ToDo_list(String,String)"
 });
 formatter.result({
-  "duration": 14523172,
+  "duration": 15882018,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.clear_completed_link_selected()"
 });
 formatter.result({
-  "duration": 30885413,
+  "duration": 33663050,
   "status": "passed"
 });
 formatter.match({
@@ -1251,7 +1251,7 @@ formatter.match({
   "location": "Steps.navigate_to_todo_list(String)"
 });
 formatter.result({
-  "duration": 29615880,
+  "duration": 35485687,
   "status": "passed"
 });
 formatter.match({
@@ -1268,7 +1268,7 @@ formatter.match({
   "location": "Steps.deleted_from_the_ToDo_list(String,String)"
 });
 formatter.result({
-  "duration": 9473514,
+  "duration": 9689860,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1424,7 +1424,7 @@ formatter.match({
   "location": "Steps.todo_MVC_app_should_be_launched_already()"
 });
 formatter.result({
-  "duration": 13960310,
+  "duration": 16358114,
   "status": "passed"
 });
 formatter.match({
@@ -1437,7 +1437,7 @@ formatter.match({
   "location": "Steps.enter_item_in_the_input_box(String)"
 });
 formatter.result({
-  "duration": 61305735,
+  "duration": 68847893,
   "status": "passed"
 });
 formatter.match({
@@ -1450,7 +1450,7 @@ formatter.match({
   "location": "Steps.navigate_to_todo_list(String)"
 });
 formatter.result({
-  "duration": 40888455,
+  "duration": 49638548,
   "status": "passed"
 });
 formatter.match({
@@ -1467,7 +1467,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 60264272,
+  "duration": 74018489,
   "status": "passed"
 });
 formatter.match({
@@ -1480,7 +1480,7 @@ formatter.match({
   "location": "Steps.double_click_on_todo_list(String)"
 });
 formatter.result({
-  "duration": 131403588,
+  "duration": 133359944,
   "status": "passed"
 });
 formatter.match({
@@ -1493,7 +1493,7 @@ formatter.match({
   "location": "Steps.modify_todos(String)"
 });
 formatter.result({
-  "duration": 262631301,
+  "duration": 298777455,
   "status": "passed"
 });
 formatter.match({
@@ -1510,7 +1510,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 34411138,
+  "duration": 37876899,
   "status": "passed"
 });
 formatter.match({
@@ -1523,7 +1523,7 @@ formatter.match({
   "location": "Steps.navigate_to_todo_list(String)"
 });
 formatter.result({
-  "duration": 28333285,
+  "duration": 59476778,
   "status": "passed"
 });
 formatter.match({
@@ -1540,7 +1540,7 @@ formatter.match({
   "location": "Steps.see_under_the_rememeber_list(String,String)"
 });
 formatter.result({
-  "duration": 35041642,
+  "duration": 42545267,
   "status": "passed"
 });
 });

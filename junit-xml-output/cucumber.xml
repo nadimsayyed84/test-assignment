@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="7.437915">
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter" time="4.675973">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="9.123334">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter" time="5.743473">
         <system-out><![CDATA[Given Open the Chrome and launch the application............................passed
 When enter "12345" item in the input box....................................passed
 Then I see "12345" is visible in All Todo list..............................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 2" time="0.261454">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 2" time="0.398194">
         <system-out><![CDATA[Given Open the Chrome and launch the application............................passed
 When enter "SINGTEL" item in the input box..................................passed
 Then I see "SINGTEL" is visible in All Todo list............................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 3" time="0.276318">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 3" time="0.451668">
         <system-out><![CDATA[Given Open the Chrome and launch the application............................passed
 When enter "SINGTEL12345" item in the input box.............................passed
 Then I see "SINGTEL12345" is visible in All Todo list.......................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 4" time="0.28826">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Todo input accepts numeric,string,alphanumeric,special charachter 4" time="0.32818">
         <system-out><![CDATA[Given Open the Chrome and launch the application............................passed
 When enter "$%^&%*&^!@" item in the input box...............................passed
 Then I see "$%^&%*&^!@" is visible in All Todo list.........................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Add ToDo item" time="0.303923">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Add ToDo item" time="0.364348">
         <system-out><![CDATA[Given I see TODO MVC app....................................................passed
 When enter "MVC Data" item in the input box.................................passed
 Then I see "MVC Data" is visible in All Todo list...........................passed
@@ -35,7 +35,7 @@ And Active hyperlink is visible and not selected............................pass
 And Completed hyperlink is visible and not selected.........................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Behaviour of X icon over ToDos" time="0.563264">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Behaviour of X icon over ToDos" time="0.608363">
         <system-out><![CDATA[Given I see TODO MVC app....................................................passed
 When enter "Sample" item in the input box...................................passed
 Then I see "Sample" is visible in the list..................................passed
@@ -49,7 +49,7 @@ Then "Sample" cannot be seen on All todo list...............................pass
 And I see item left count shows 5 Item......................................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Verify Active, Completed and Clear completed features" time="0.400483">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Verify Active, Completed and Clear completed features" time="0.448209">
         <system-out><![CDATA[Given I see TODO MVC app....................................................passed
 When I select "MVC Data" checkbox...........................................passed
 Then "MVC Data" will be strikethrough.......................................passed
@@ -66,7 +66,7 @@ And I navigate to Completed todo list.......................................pass
 Then "MVC Data" cannot be seen on Completed todo list.......................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Edit existing Todo item" time="0.66824">
+    <testcase classname="In order to remember the things I want to do, as a ToDo MVC user,I want to manage my todo list" name="Edit existing Todo item" time="0.780899">
         <system-out><![CDATA[Given I see TODO MVC app....................................................passed
 When enter "MVC Data" item in the input box.................................passed
 Then I navigate to All todo list............................................passed
