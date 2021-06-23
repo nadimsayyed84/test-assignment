@@ -12,7 +12,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.base.Verify;
 import cucumber.api.DataTable;
-import cucumber.api.java.After;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -37,7 +36,6 @@ public class Steps extends createElement{
 
 	@Then("^I see \"([^\"]*)\" is visible in ([^\\\"]*) list$")
 	public void see_under_the_rememeber_list(String expectedToDoItem,String activeList) throws Throwable {
-//		List<WebElement> toDoLists=getControlObjectList(toDoList);
 		Verify.verify(isItemPresentInToDoList(getControlObjectList(toDoList),expectedToDoItem),"The ToDo item does not added correctly");
 	}
 
@@ -111,7 +109,6 @@ public class Steps extends createElement{
 	
 	@Then("^\"([^\"]*)\" cannot be seen on ([^\\\"]*) list$")
 	public void deleted_from_the_ToDo_list(String expectedToDoItem,String activeList) throws Throwable {
-//		List<WebElement> toDoLists=getControlObjectList(toDoList);
 		Verify.verify(!isItemPresentInToDoList(getControlObjectList(toDoList),expectedToDoItem),"The item still exists in the ToDo list after delete");
 	}
 	
@@ -163,9 +160,5 @@ public class Steps extends createElement{
 		wait.until(ExpectedConditions.textToBe(editToDos, ""));
 		getControlObject(editToDos).sendKeys(newToDoItem + Keys.ENTER);
 	}
-	
-//	@After
-//	public void tearDown(){
-//		driver.close();
-//	}	
+		
 }
